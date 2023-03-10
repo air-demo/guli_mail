@@ -15,7 +15,14 @@
         <module>gulimail_order</module>
         <module>gulimail_product</module>
         <module>gulimail_ware</module>
+        <module>renren-fast</module>
+        <module>renren-generator</module>
+        <module>gulimail_common</module>
     </modules>
-
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+        <java.version>1.8</java.version>
+    </properties>
 
 </project>
