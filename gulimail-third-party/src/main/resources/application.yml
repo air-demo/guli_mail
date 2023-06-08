@@ -4,11 +4,11 @@ spring:
       discovery:
         server-addr: 127.0.0.1:8848
     alicloud:
-      access-key: LTAI5tLsUCRYX5Ugr6qHy3Ez
-      secret-key: 3RaYvoiN7IxhBZL5Tw7f6eGoBa4I8z
+      access-key:
+      secret-key: 
       oss:
-        endpoint: oss-cn-hangzhou.aliyuncs.com
-        bucket: gulimail-air
+        endpoint: 
+        bucket:
   application:
     name: gulimail-third-party
 
